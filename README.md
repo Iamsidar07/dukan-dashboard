@@ -1,3 +1,6 @@
+#Dukan Dashboard
+![Dukan Dashboard](/public/image.png)
+Figma design link [dukan dashboard](https://snaplink-xegc.vercel.app/s/5me4wr9a)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
